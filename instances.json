@@ -1,22 +1,16 @@
 {
-  "repository": "https://raw.githubusercontent.com/Thiago03125/manifest.github.io/main",
-  "version": "1.0.0",
   "instances": [
     {
       "key": "BOMB-ILUP-CORE-2025",
       "name": "Bomb Party",
-      "description": "Instancia de bomb party evento de Iluphany 2025",
-      "configUrl": "instances/bomb-party/config.json",
-      "backgroundUrl": "instances/bomb-party/background.png",
-      "thumbnailUrl": "instances/bomb-party/thumbnail.png"
+      "thumbnailUrl": "instances/bomb-party/thumbnail.png",
+      "configUrl": "instances/bomb-party/config.json"
     },
     {
       "key": "BOMB-REMA-CORE-2026",
       "name": "Bomb Party Beta-test",
-      "description": "Instacia para el test de bomb party iluphany studios 2026",
-      "configUrl": "instances/bomb-party-remastered/config.json",
-      "backgroundUrl": "instances/bomb-party-remastered/backround.png",
-      "thumbnailUrl": "instances/bomb-party-remastered/thumbnail.png"
+      "thumbnailUrl": "instances/bomb-party-remastered/thumbnail.png",
+      "configUrl": "instances/bomb-party-remastered/config.json"
     }
   ]
 }
