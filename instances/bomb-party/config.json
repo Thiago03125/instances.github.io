@@ -9,7 +9,7 @@
     {
       "name": "Fabric API",
       "fileName": "fabric-api-0.102.0+1.21.jar",
-      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/fabric-api-0.102.0+1.21.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.github.io/downloads/fabric-api-0.102.0+1.21.jar",
       "version": "0.102.0",
       "required": true
     },
@@ -32,3 +32,4 @@
   "shaderPacks": [],
   "configFiles": []
 }
+
