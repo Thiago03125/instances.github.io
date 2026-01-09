@@ -1,29 +1,29 @@
 {
   "key": "BOMB-REMA-CORE-2026",
   "name": "Bomb Party Beta-test",
-  "description": "Instacia para el test de bomb party iluphany studios 2026",
+  "description": "Instancia para el test de bomb party iluphany studios 2026",
   "minecraftVersion": "1.21",
   "fabricVersion": "0.16.0",
-  "backgroundUrl": "https://raw.githubusercontent.com/Thiago03125/manifest.github.io/main/instances/bomb-party/backround.png",
+  "backgroundUrl": "https://raw.githubusercontent.com/Thiago03125/instances.github.io/main/instances/bomb-party-remastered/backround.png",
   "mods": [
     {
       "name": "Fabric API",
       "fileName": "fabric-api-0.102.0+1.21.jar",
-      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/fabric-api-0.102.0+1.21.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.github.io/downloads/fabric-api-0.102.0+1.21.jar",
       "version": "0.102.0",
       "required": true
     },
     {
       "name": "Iluphany Voice Chat Settings",
       "fileName": "iluphanyvoicesettings-1.0.0.jar",
-      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/iluphanyvoicesettings-1.0.0.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.github.io/downloads/iluphanyvoicesettings-1.0.0.jar",
       "version": "1.0.0",
       "required": true
     },
     {
       "name": "Voice Chat",
       "fileName": "voicechat-fabric-1.21.1-2.6.10.jar",
-      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/voicechat-fabric-1.21.1-2.6.10.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.github.io/downloads/voicechat-fabric-1.21.1-2.6.10.jar",
       "version": "2.6.10",
       "required": true
     }
