@@ -16,14 +16,14 @@
     {
       "name": "Iluphany Voice Chat Settings",
       "fileName": "iluphanyvoicesettings-1.0.0.jar",
-      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/iluphanyvoicesettings-1.0.0.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.github.io/downloads/iluphanyvoicesettings-1.0.0.jar",
       "version": "1.0.0",
       "required": true
     },
     {
       "name": "Voice Chat",
       "fileName": "voicechat-fabric-1.21.1-2.6.10.jar",
-      "downloadUrl": "https://thiago03125.github.io/instances.hithub.io/downloads/voicechat-fabric-1.21.1-2.6.10.jar",
+      "downloadUrl": "https://thiago03125.github.io/instances.github.io/downloads/voicechat-fabric-1.21.1-2.6.10.jar",
       "version": "2.6.10",
       "required": true
     }
@@ -32,4 +32,5 @@
   "shaderPacks": [],
   "configFiles": []
 }
+
 
